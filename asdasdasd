@@ -1,0 +1,4 @@
+377792
+game:GetService("StarterGui").Main.FruitInventory.Container.Stored
+game:GetService("StarterGui").Main.FruitInventory
+game:GetService("Players")["1Yhurie1"].PlayerGui.Main.FruitInventory.Container.Stored
