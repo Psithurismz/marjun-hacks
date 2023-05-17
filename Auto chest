@@ -1,3 +1,4 @@
+wait() until game:IsLoaded()
 aut = true
 
 function totarget(CFgo)
