@@ -2,3 +2,4 @@
 game:GetService("StarterGui").Main.FruitInventory.Container.Stored
 game:GetService("StarterGui").Main.FruitInventory
 game:GetService("Players")["1Yhurie1"].PlayerGui.Main.FruitInventory.Container.Stored
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("Store","Bomb-Bomb")
