@@ -1,3 +1,4 @@
 workspace["Falcon Fruit"].Fruit
 workspace["Spin Fruit"].Fruit
 workspace["Falcon Fruit"]
+game:GetService("Workspace")["Spike Fruit"].Fruit
